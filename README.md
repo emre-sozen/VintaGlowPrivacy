@@ -81,3 +81,21 @@ We may update our Privacy Policy from time to time. We will notify you of any ch
 If you have any questions about this Privacy Policy, please contact us at:
 
 emreszn.playstore@gmail.com
+
+FLATICON ATTRIBUTES
+
+<a href="https://www.flaticon.com/free-icons/settings" title="settings icons">Settings icons created by Karacis - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/diamond" title="diamond icons">Diamond icons created by VectorPortal - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/laurel-wreath" title="laurel wreath icons">Laurel wreath icons created by Ainul Muttakin - Flaticon</a>
+
+<a href="https://www.flaticon.com/free-icons/turkey" title="turkey icons">Turkey icons created by iconset.co - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/united-states" title="united states icons">United states icons created by Freepik - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/german" title="german icons">German icons created by GeekClick - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/japan" title="japan icons">Japan icons created by Roundicons - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/france" title="france icons">France icons created by IYAHICON - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/spain" title="spain icons">Spain icons created by Freepik - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/dutch" title="Dutch icons">Dutch icons created by amoghdesign - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/russia" title="russia icons">Russia icons created by GeekClick - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/china" title="china icons">China icons created by Roundicons - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/malaysia" title="malaysia icons">Malaysia icons created by iconset.co - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/indonesia" title="indonesia icons">Indonesia icons created by Roundicons - Flaticon</a>
